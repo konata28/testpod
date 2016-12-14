@@ -9,5 +9,8 @@
 #import "testobj.h"
 
 @implementation testobj
-
+-(int)returnanum
+{
+    return 8;
+}
 @end

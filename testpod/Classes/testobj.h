@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface testobj : NSObject
-
+-(int)returnanum;
 @end
